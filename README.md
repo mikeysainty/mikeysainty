@@ -18,7 +18,7 @@
 
 💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**!
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mly05) or **mly05@uw.edu**.
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mly05) or **mly05@uw.edu**
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=B9F5FA&vCenter=true&repeat=false&random=false&width=435&lines=Programming+Languages+and+Tools" alt="Typing SVG" />
