@@ -1,5 +1,3 @@
-![Cyberpunk Github Gif](https://github.com/mikeysainty/mikeysainty/assets/42102504/9d3cf719-22c6-4426-b544-73d38d36ddc3)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=B9F5FA&center=true&vCenter=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B!+I'm+Michael" alt="Typing SVG" />
 </p>
