@@ -18,7 +18,7 @@
 
 🌱 I’m currently learning **Word2Vec, Deep Learning Techniques, and RNN Architectures**
 
-💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**!
+💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mly05) or **mly05@uw.edu**
 
