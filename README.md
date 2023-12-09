@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=B9F5FA&vCenter=true&repeat=false&random=false&width=435&lines=About+Me" alt="Typing SVG" />
 </p>
 
-👨‍💻 I'm currently working on **developing my own website using Gatsby**
+👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health in Maine**
 
 🌱 I’m currently learning **Word2Vec, Deep Learning Techniques, and RNN Architectures**
 
