@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Deciphering+Data+by+Day%2C+Playing+Fetch+with+My+Golden+Retriever+by+Night" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/mikeysainty/mikeysainty/assets/42102504/cbdf2d4b-f1f3-42dc-9469-998a8c062c3c">
-
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=B9F5FA&vCenter=true&repeat=false&random=false&width=435&lines=About+Me" alt="Typing SVG" />
 </p>
 
@@ -20,7 +18,7 @@
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mly05) or **mly05@uw.edu**
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=B9F5FA&vCenter=true&repeat=false&random=false&width=435&lines=Programming+Languages+and+Tools" alt="Typing SVG" />
 </p>
 
