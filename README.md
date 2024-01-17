@@ -36,7 +36,7 @@
 
 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Keras, TensorFlow, Scikit-learn, PyTorch, ggplot2, dplyr, tidyr
 
-**Tools and Platforms:** Power BI, Tableau, Docker, Microsoft Azure/Excel/Access, Jupyter Notebook, Git/GitHub, MongoDB, Apache Hadoop
+**Tools and Platforms:** Power BI, Tableau, Docker, Microsoft Azure/Excel/Access, Jupyter Notebook, Git/GitHub, MongoDB, Apache Hadoop, Cognos, Oracle
 
 **Machine Learning Models:** Logistic/Linear Regression, Decision Trees, Random Forests, Naive Bayes, K-Nearest Neighbors
 
