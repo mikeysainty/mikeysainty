@@ -16,7 +16,7 @@
       
 💡 Seeking internships and job opportunities for **Data Scientist, Data/Business Analyst, and Data Engineer Positions**
 
-👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine**, for my capstone class at University of Washington
+👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine** for my capstone class at University of Washington
 
 🌱 I’m currently learning how to implement big data solutions using **Hadoop**
 
