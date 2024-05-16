@@ -14,11 +14,11 @@
         <img src="https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&color=B9F5FA&vCenter=true&repeat=false&random=false&width=435&lines=About+Me" alt="Typing SVG" />
       </p>
       
-💡 Seeking internships and job opportunities for **Data Scientist, Data/Business Analyst, and Data Engineer Positions**
+💡 Seeking job opportunities for **Data Scientist, Data/Business Analyst, and Data Engineer Positions**
 
-👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine** for my capstone class at University of Washington
+👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine**
 
-🌱 I’m currently learning how to implement big data solutions using **Hadoop**
+🌱 I’m learning how to implement big data solutions using **Hadoop**
 
 🔨 I'm refining my skills in various **Machine Learning and Deep Learning Models**
 
