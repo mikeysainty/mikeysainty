@@ -16,7 +16,7 @@
       
 💡 Seeking job opportunities for **Data Scientist, Data/Business Analyst, and Data Engineer Positions**
 
-👨‍💻 I'm currently working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine**
+👨‍💻 I recently finished working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine**
 
 🌱 I’m learning how to implement big data solutions using **Hadoop**
 
