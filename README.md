@@ -18,8 +18,6 @@
 
 👨‍💻 I recently finished working on **developing a database and Tableau dashboard analyzing mental health and healthcare accessibility in Maine**
 
-🌱 I’m learning how to implement big data solutions using **Hadoop**
-
 🔨 I'm refining my skills in various **Machine Learning and Deep Learning Models**
 
 💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**
