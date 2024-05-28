@@ -19,7 +19,7 @@
 
 💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**
 
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/mly05) or **mly05@uw.edu**
+📫 Reach out to me at **mly05@uw.edu**
 
 <!-- Programming Languages and Tools Section -->
 <h2 align="left">
