@@ -18,8 +18,6 @@ About Me
 
 💬 Dive into a conversation with me about **Machine Learning, Data Analytics, and Generative AI**
 
-📫 Reach out to me at **mly05@uw.edu**
-
 <h3 align="left">
 Skills Summary
 </h3>
